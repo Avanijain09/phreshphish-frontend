@@ -122,12 +122,11 @@ The backend repository URL and its exact installation commands should be added h
 
 ## Screenshots
 
-Add screenshots of the deployed application to a `docs/screenshots/` directory and link them here.
+### Homepage
+![PhreshPhish Homepage](docs/screenshots/homepage.png)
 
-Suggested screenshots:
-- Main URL scanning interface
-- Prediction result with verdict and risk score
-- API documentation at `/docs`
+### Phishing URL Scan Result
+![Scan Result](docs/screenshots/scan-result.png)
 
 ## Limitations
 
